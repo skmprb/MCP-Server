@@ -1,0 +1,63 @@
+2025-06-09 11:01:58,198 - server - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:01:58,209 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:01:58,212 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:01:58,213 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:01:58,214 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:01:58,215 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:01:58,215 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:01:58,216 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:01:58,217 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-06-09 11:02:01,250 - __main__ - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:02:01,258 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:02:01,258 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:02:01,259 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:02:01,259 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:02:01,260 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:02:01,260 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:02:01,261 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:02:01,261 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-06-09 11:49:22,420 - server - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:49:22,428 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:49:22,429 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:49:22,430 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:49:22,430 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:49:22,430 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:49:22,431 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:49:22,431 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:49:22,431 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-06-09 11:49:34,268 - __main__ - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:49:34,277 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:49:34,277 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:49:34,280 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:49:34,281 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:49:34,281 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:49:34,282 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:49:34,285 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:49:34,285 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-06-09 11:55:10,403 - server - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:55:10,419 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:55:10,457 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:55:10,462 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:55:10,463 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:55:10,463 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:55:10,463 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:55:10,470 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:55:10,497 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-06-09 11:55:15,974 - __main__ - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:55:15,983 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:55:15,984 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:55:15,984 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:55:15,985 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:55:15,985 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:55:15,986 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:55:15,987 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:55:15,987 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-06-09 11:55:31,983 - __main__ - DEBUG - Initializing FastMCP server with name 'github'
+2025-06-09 11:55:31,993 - mcp.server.lowlevel.server - DEBUG - Initializing server 'github'
+2025-06-09 11:55:31,994 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-06-09 11:55:31,995 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-06-09 11:55:31,996 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-06-09 11:55:31,996 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-06-09 11:55:31,997 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-06-09 11:55:31,997 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-06-09 11:55:32,000 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest

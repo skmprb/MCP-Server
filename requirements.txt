@@ -1,0 +1,6 @@
+fastmcp
+sse-starlette
+fastapi
+uvicorn
+mcp
+mcp[cli]
